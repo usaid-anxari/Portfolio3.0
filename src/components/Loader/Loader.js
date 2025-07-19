@@ -1,8 +1,8 @@
 import React from "react";
 import LoaderContainer from "../../containers/LoaderContainer";
-import CBB from "../../assets/images/CBB";
-import logo from "../../assets/images/logo.png"
-import { Box } from "@material-ui/core";
+// import CBB from "../../assets/images/CBB";
+// import logo from "../../assets/images/logo.png"
+// import { Box } from "@material-ui/core";
 
 const Loader = () => {
     return (
