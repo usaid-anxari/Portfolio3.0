@@ -1,0 +1,24 @@
+{
+    "language": "en",
+    "dark_mode": "Dark mode",
+    "home_welcome": "Hi there",
+    "home_i": "i'm",
+    "home_what_i_do": "I Develop Softwears And Websites",
+    "home_job": "MERN Stack Web Developer",
+    "home_location": "Based In Karachi , Pakistan.",
+    "home_contact_btn": "Get In Touch",
+    "menu_about": "About",
+    "menu_projects": "Projects",
+    "menu_experience": "Experience",
+    "menu_contact": "Contact",
+    "menu_resume": "Resume",
+    "about_desc": "Hello there, I Am Usaid Ahmed Ansari And I am A Full Stack Web Developer Located in Pakistan .I Have Deep Knowledge And Proficiency In Frontend, Backend And Responsive Web Design.",
+    "experience_0_job": "Full Stack Web Developer",
+    "experience_0_overview": "Vocsena. Develop and maintain strong projects with team collabration,Used React And Bootstrap to develop Frontend,Produced websites cmpatible with multiple browsers and Designed and updated layouts to meet usability and performance requirements.",
+    "experience_0_duration": "September 2024 - january 2025",
+    "projects_1_overview": "Assests And Revenue Calculator For Accounting Students.",
+  
+    "contact_full_name": "Full name",
+    "contact_email": "E-mail adress",
+    "contact_btn": "Send message"
+}
