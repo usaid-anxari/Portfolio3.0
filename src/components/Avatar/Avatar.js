@@ -1,11 +1,11 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core";
-import AvatarImg from "../../assets/images/avatar-us.webp";
+import AvatarImg from "../../assets/images/avatar-us.jpeg";
 
 const Avatar = () => {
   const classes = useStyles();
   return (
-      <img src={AvatarImg} alt="Abdul Basit Ansari" className={classes.avatarImg} />
+      <img src={AvatarImg} alt="Usaid Ahmed Ansari" className={classes.avatarImg} />
   );
 };
 
